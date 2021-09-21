@@ -1,4 +1,5 @@
-# proyecto-1
+# Vote List Apps
+Simple app to count votes of a list of apps
 
 ## Project setup
 ```
